@@ -11,9 +11,11 @@ DGIST 박상현 교수님의 [edwith
 
 # 정리 포스트
 
-1. Medical Image Analysis 1: Introduction to MEDIA (본 글)
-2. [Medical Image Analysis 2: Medical Image acquisition methods]({{ site.url }}{{ site.baseurl }}/medical%20image%20analysis/MEDIA-2-medical-image-acquisition/)
-3. [Medical Image Analysis 3: Classification for MEDIA (1)]({{ site.url }}{{ site.baseurl }}/medical%20image%20analysis/MEDIA-3-classification-for-medical-image-1/)
-4. [Medical Image Analysis 4: Classification for MEDIA (2) Deep neural network]({{ site.url }}{{ site.baseurl }}/medical%20image%20analysis/MEDIA-4-classification-for-medical-image-2-DNN/)
-5. [Medical Image Analysis 5: Classification for MEDIA (3) Convolutional neural network]({{ site.url }}{{ site.baseurl }}/medical%20image%20analysis/MEDIA-5-classification-for-medical-image-3-CNN/)
-6. [Medical Image Analysis 6: Classification for MEDIA (4) Advanced CNN models]({{ site.url }}{{ site.baseurl }}/medical%20image%20analysis/2020-10-26-MEDIA-6-classification-for-medical-image-4-advanced-CNN/)
+1. [Introduction to MEDIA](https://tyami.github.io/medical%20image%20analysis/MEDIA-1-introduction-to-MEDIA/)
+2. [Medical Image acquisition methods](https://tyami.github.io/medical%20image%20analysis/MEDIA-2-medical-image-acquisition/)
+3. [Classification for MEDIA (1)](https://tyami.github.io/medical%20image%20analysis/MEDIA-3-classification-for-medical-image-1/)
+4. [Classification for MEDIA (2) Deep neural network](https://tyami.github.io/medical%20image%20analysis/MEDIA-4-classification-for-medical-image-2-DNN/)
+5. [Classification for MEDIA (3) Convolutional neural network](https://tyami.github.io/medical%20image%20analysis/MEDIA-5-classification-for-medical-image-3-CNN/)
+6. [Classification for MEDIA (4) Advanced CNN models](https://tyami.github.io/medical%20image%20analysis/2020-10-26-MEDIA-6-classification-for-medical-image-4-advanced-CNN/)
+7. [Classification for MEDIA (5) Overcome small dataset](https://tyami.github.io/medical%20image%20analysis/MEDIA-7-classification-for-medical-image-5-small-dataset/)
+8. [Classification for MEDIA (6) Evaluation metrics for classification (분류모델 평가 지표)](https://tyami.github.io/medical%20image%20analysis/MEDIA-8-classification-for-medical-image-6-evaluation-metrics/)
